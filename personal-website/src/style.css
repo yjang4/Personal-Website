@@ -1,0 +1,25 @@
+* {
+    background-color: aliceblue;
+}
+.App {
+    font-family: arial;
+    font-size: 24px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+}
+h {
+    font-size: 64px;
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    font-size: 48px;
+    display: flex;
+    justify-content: center;
+}
+.Project {
+    display: flex;
+    justify-content: center;
+}

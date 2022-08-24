@@ -8,6 +8,8 @@ function Project(props) {
       <div className="project-desc">
         {props.desc}
       </div>
+      <button>Code</button>
+      <button>View</button>
        
     </div>
   );
